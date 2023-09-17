@@ -1,1 +1,1 @@
-# black_hat_rust_offensive
+# Book Exercises: Black Hat Rust Offensive
